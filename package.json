@@ -3,8 +3,8 @@
   "version": "2.8.0",
   "private": true,
   "engines": {
-    "node": ">=22.16",
-    "pnpm": ">=10.22.0"
+    "node": "22.16.0",
+    "pnpm": "10.22.0"
   },
   "packageManager": "pnpm@10.22.0",
   "scripts": {
@@ -158,5 +158,5 @@
   }
 }
       "dependencies": {
-        "turbo": "^1.12.0"
+        "turbo": "1.12.0"
       }
